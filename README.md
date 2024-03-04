@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tolu Omoseyin</h1>
-<h3 align="center">A passionate Backend & DevOps Engineer, blending the power of code with the art of infrastructure to create seamless, scalable, and resilient software solutions. With a passion for automation and a knack for problem-solving, I thrive in driving innovation and efficiency across the software development lifecycle. Let's build and deploy greatness together!</h3>
-
 - 💬 Ask me about **docker, kubernetes, aws, .net, c#, sql, linux, bash, python, jenkins, terraform, ansible, cicd, backend development**
 
 - 📫 How to reach me **toluomoseyin01@gmail.com**
