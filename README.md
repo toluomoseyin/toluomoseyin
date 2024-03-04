@@ -27,5 +27,5 @@ I'm a versatile professional with a strong foundation in backend development and
 
 Feel free to reach out if you'd like to collaborate on exciting projects or discuss anything tech-related!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tolu-omoseyin-b08474215/)
+- Email: toluomoseyin01@gmail.com
